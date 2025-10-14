@@ -1,5 +1,5 @@
-### Hi, my name is Vadym 👋
-# 💫 About Me:
+# Hi, my name is Vadym 👋
+## 💫 About Me:
 I’m a creative front-end developer who enjoys turning ideas into interactive, modern web interfaces.<br>I focus on building responsive and accessible applications using React, Tailwind CSS, and clean, maintainable code.<br>I’m constantly learning new technologies to make the web faster, smarter, and more enjoyable to use.
 
 
