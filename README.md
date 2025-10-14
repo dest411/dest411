@@ -3,7 +3,7 @@
 I’m a creative front-end developer who enjoys turning ideas into interactive, modern web interfaces.<br>I focus on building responsive and accessible applications using React, Tailwind CSS, and clean, maintainable code.<br>I’m constantly learning new technologies to make the web faster, smarter, and more enjoyable to use.
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vadym-stryzhak-a2b212336/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vadimstrizhak652@gmail.com) 
 
 # 💻 Tech Stack:
