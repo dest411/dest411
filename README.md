@@ -30,10 +30,10 @@ Currently focusing on **React ecosystem** and mastering **TypeScript**.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Vadym's Stats](https://github-readme-stats.vercel.app/api?username=dest411&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dest411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=dest411&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dest411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
 
 ---
 
