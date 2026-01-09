@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi, I'm Vadym! 
 ###  Front-End Developer
@@ -44,4 +44,3 @@ Currently focusing on **React ecosystem** and mastering **TypeScript**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-stryzhak-a2b212336/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadimstrizhak652@gmail.com)
 
-</div>
