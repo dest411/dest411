@@ -3,8 +3,7 @@
 # Hi, I'm Vadym! 
 ###  Front-End Developer
 
-I’m a creative developer who builds interactive, modern, and fast web applications.<br>
-Currently focusing on **React ecosystem** and mastering **TypeScript**.
+React & TypeScript Developer. Building responsive UIs with Tailwind CSS and scalable APIs with Node.js, Express, and MongoDB.
 
 ---
 
